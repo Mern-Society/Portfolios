@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa49b343.css",
+    "main.js": "/static/js/main.0ad91708.js",
+    "static/media/profile.jpg": "/static/media/profile.7e34ee0e178f9f6dc3ba.jpg",
+    "static/media/netflix.png": "/static/media/netflix.782ca1e7088576586960.png",
+    "static/media/raymund.jpg": "/static/media/raymund.46bbc28c348fbe490eb5.jpg",
+    "static/media/doovote.png": "/static/media/doovote.f5106c0f36e64df6308e.png",
+    "static/media/Ecommerce.png": "/static/media/Ecommerce.d971b01b304243bf99de.png",
+    "static/media/MARK_STEVEN_ALBA.pdf": "/static/media/MARK_STEVEN_ALBA.afc8dc361354d29bce82.pdf",
+    "static/media/Blog.png": "/static/media/Blog.b685bd3685e1b6f09982.png",
+    "static/media/CFC.png": "/static/media/CFC.754ccf8fb8a83941a2e6.png",
+    "static/media/mandrix.jpg": "/static/media/mandrix.eeb51a034b0c577362cd.jpg",
+    "static/media/Dashboard.png": "/static/media/Dashboard.944dc1acb6df609e5d84.png",
+    "static/media/Messaging.png": "/static/media/Messaging.1d4d224e2bade73fa884.png",
+    "static/media/BrixDeluteCV.pdf": "/static/media/BrixDeluteCV.ae184aa539c16e4c4a60.pdf",
+    "static/media/ANDROIDSTUDIO.png": "/static/media/ANDROIDSTUDIO.e774b45c94df8ef58563.png",
+    "static/media/Inventory.png": "/static/media/Inventory.c72766252e65c090c014.png",
+    "static/media/Pos.png": "/static/media/Pos.d31beff5181e5ead457c.png",
+    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/Meet.png": "/static/media/Meet.dce4c0f898e42005dd52.png",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/gibb.jpg": "/static/media/gibb.4bfe60cdb3bed204f5fc.jpg",
+    "index.html": "/index.html",
+    "main.aa49b343.css.map": "/static/css/main.aa49b343.css.map",
+    "main.0ad91708.js.map": "/static/js/main.0ad91708.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa49b343.css",
+    "static/js/main.0ad91708.js"
+  ]
+}

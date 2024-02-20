@@ -16,7 +16,7 @@ import Blog from "./assets/Blog.png";
 import Inventory from "./assets/Inventory.png";
 import Ecommerce from "./assets/Ecommerce.png";
 import Messaging from "./assets/Messaging.png";
-import IDPIC from './assets/profilepic.jpg';
+// import IDPIC from './assets/profilepic.jpg';
 import Image1 from "./assets/testimonial1.png"; 
 import Image2 from "./assets/testimonial2.png";
 import Image3 from "./assets/testimonial3.png";
@@ -28,7 +28,7 @@ import profileImage from './assets/profile.jpg'
 import CV2 from './assets/MARK_STEVEN_ALBA.pdf'
 
 //Dev
-export const API_URL = "https://bugtech.solutions/v1";
+export const API_URL = "https://bugtech.online/v1";
 
 //Local
 // export const API_URL = "http://localhost:5500/v1";
@@ -101,14 +101,14 @@ export const PROJECTS = [
       cover: Pos,
       title: "Inventory/POS",
       description: "Web",
-      link: "https://pos.bugtech.solutions"
+      link: "https://pos.bugtech.online"
     },
     {
       id: 2,
       cover: CFC,
       title: "CFC 2023",
       description: "App",
-      link: "https://cfc.bugtech.solutions"
+      link: "https://cfc.bugtech.online"
     },
     {
       id: 3,
@@ -129,21 +129,21 @@ export const PROJECTS = [
       cover: Work3,
       title: "File Manager",
       description: "Web",
-      link: "https://files.bugtech.solutions"
+      link: "https://files.bugtech.online"
     },
     // {
     //   id: 6,
     //   cover: Inventory,
     //   title: "Bubu - Lending App",
     //   description: "App",
-    //   link: "https://bubu.bugtech.solutions"
+    //   link: "https://bubu.bugtech.online"
     // },
     // {
     //   id: 7,
     //   cover: Inventory,
     //   title: "Deep - Multi-level Marketing",
     //   description: "App",
-    //   link: "https://deep.bugtech.solutions"
+    //   link: "https://deep.bugtech.online"
     // },
     // {
     //   id: 7,
@@ -329,7 +329,7 @@ export const PROFILES = [
                     },
                     {
                         title: "Whatsapp",
-                        subtitle: "+639659868434JJ",
+                        subtitle: "+639659868434",
                         description: "",
                         link: "",
                         icon: "bx bxl-whatsapp",
@@ -355,7 +355,7 @@ export const PROFILES = [
                 subtitle: "My Introduction",
                 description: "I believe that my unique combination of accounting knowledge and Full Stack Development skills allows me to bring added value to any project. My goal is to use my expertise to create cutting-edge accounting tools and systems that streamline financial processes and improve the user experience.",
                 link: CV2,
-                // cover: IDPIC,
+                cover: profileImage,
                 contents: [
                     {
                         title: "Experience",
@@ -442,7 +442,7 @@ export const PROFILES = [
               type: "experience",
               title: "Highly Succeed",
               subtitle: "Full Stack Developer",
-              description: "June 2022 - May 2023",
+              description: "June 2022 - April 2023",
               link: "https://www.mwell.com.ph/",
               cover: "",
               contents: []

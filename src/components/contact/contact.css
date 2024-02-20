@@ -16,8 +16,12 @@
   display: grid;
   row-gap: 1rem;
   height: 500px;
+
+  
   /* grid-template-columns: 300px; */
 }
+
+
 
 .contact__info_container {
   display: grid;
