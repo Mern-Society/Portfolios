@@ -181,27 +181,27 @@ export const SKILLS = [
       },
       {
         title: "MySQL",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-mysql"
       },
       {
         title: "MongoDB",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-mongodb"
       },
       {
         title: "Firebase",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-firebase"
       },
       {
         title: "Postgresql",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-postgresql"
       },
       {
         title: "AWS",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-aws"
       }
     ]
@@ -214,12 +214,12 @@ export const SKILLS = [
     contents: [
       {
         title: "HTML5",
-        subtitle: "Basic",
+        subtitle: "Advance",
         icon: "bx bxl-hmtl5"
       },
       {
         title: "CSS3",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-css3"
       },
       {
@@ -229,7 +229,7 @@ export const SKILLS = [
       },
       {
         title: "Bootstrap",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-bootstrap"
       },
       {
