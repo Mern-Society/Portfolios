@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.aa49b343.css",
-    "main.js": "/static/js/main.970e02a5.js",
+    "main.js": "/static/js/main.9febd633.js",
     "static/media/profile.jpg": "/static/media/profile.7e34ee0e178f9f6dc3ba.jpg",
     "static/media/netflix.png": "/static/media/netflix.782ca1e7088576586960.png",
     "static/media/raymund.jpg": "/static/media/raymund.46bbc28c348fbe490eb5.jpg",
     "static/media/doovote.png": "/static/media/doovote.f5106c0f36e64df6308e.png",
     "static/media/Ecommerce.png": "/static/media/Ecommerce.d971b01b304243bf99de.png",
-    "static/media/MARK_STEVEN_ALBA.pdf": "/static/media/MARK_STEVEN_ALBA.afc8dc361354d29bce82.pdf",
     "static/media/Blog.png": "/static/media/Blog.b685bd3685e1b6f09982.png",
     "static/media/CFC.png": "/static/media/CFC.754ccf8fb8a83941a2e6.png",
     "static/media/mandrix.jpg": "/static/media/mandrix.eeb51a034b0c577362cd.jpg",
@@ -15,6 +14,7 @@
     "static/media/Messaging.png": "/static/media/Messaging.1d4d224e2bade73fa884.png",
     "static/media/BrixDeluteCV.pdf": "/static/media/BrixDeluteCV.ae184aa539c16e4c4a60.pdf",
     "static/media/ANDROIDSTUDIO.png": "/static/media/ANDROIDSTUDIO.e774b45c94df8ef58563.png",
+    "static/media/MARK_STEVEN_ALBA.pdf": "/static/media/MARK_STEVEN_ALBA.f527a7a10e3ee5b426fa.pdf",
     "static/media/Inventory.png": "/static/media/Inventory.c72766252e65c090c014.png",
     "static/media/Pos.png": "/static/media/Pos.d31beff5181e5ead457c.png",
     "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
@@ -29,10 +29,10 @@
     "static/media/gibb.jpg": "/static/media/gibb.4bfe60cdb3bed204f5fc.jpg",
     "index.html": "/index.html",
     "main.aa49b343.css.map": "/static/css/main.aa49b343.css.map",
-    "main.970e02a5.js.map": "/static/js/main.970e02a5.js.map"
+    "main.9febd633.js.map": "/static/js/main.9febd633.js.map"
   },
   "entrypoints": [
     "static/css/main.aa49b343.css",
-    "static/js/main.970e02a5.js"
+    "static/js/main.9febd633.js"
   ]
 }
