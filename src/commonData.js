@@ -25,7 +25,7 @@ import CV from "./assets/BrixDeluteCV.pdf";
 // Steven Changes
 import Image4 from './assets/ANDROIDSTUDIO.png'
 import profileImage from './assets/profile.jpg'
-import CV2 from './assets/MARK_STEVEN_ALBA.pdf'
+import CV2 from './assets/MARK-STEVEN-ALBA-CV.pdf';
 
 //Dev
 export const API_URL = "https://bugtech.online/v1";
@@ -442,7 +442,7 @@ export const PROFILES = [
               type: "experience",
               title: "Highly Succeed",
               subtitle: "Full Stack Developer",
-              description: "June 2022 - April 2023",
+              description: "May 2022 - January 2024",
               link: "https://www.mwell.com.ph/",
               cover: "",
               contents: []
@@ -451,7 +451,7 @@ export const PROFILES = [
               type: "experience",
               title: "IT MATTERS",
               subtitle: "Web Developer",
-              description: "April 2018 - January 2022",
+              description: "April 2017 - May 2022",
               link: "",
               cover: "",
               contents: []
